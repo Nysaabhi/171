@@ -5459,6 +5459,7 @@ style.textContent = `
 .train-booking-response,
 .flight-booking-response,
 .domain-registration-response,
+.bus-booking-response,
 .stock-response {
   background: #1a1a1f;
   border-radius: 12px;
@@ -5470,6 +5471,7 @@ style.textContent = `
 .train-booking-response p,
 .flight-booking-response p,
 .domain-registration-response p,
+.bus-booking-response p,
 .stock-response p {
   font-size: 18px;
   font-weight: 600;
@@ -5480,6 +5482,7 @@ style.textContent = `
 .train-booking-response ul,
 .flight-booking-response ul,
 .domain-registration-response ul,
+.bus-booking-response ul,
 .stock-response ul {
   margin: 0;
   padding-left: 20px;
@@ -5490,6 +5493,7 @@ style.textContent = `
 .train-booking-response button,
 .flight-booking-response button,
 .domain-registration-response button,
+.bus-booking-response button,
 .stock-response button {
   display: inline-flex;
   align-items: center;
